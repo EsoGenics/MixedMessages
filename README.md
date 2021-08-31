@@ -9,3 +9,8 @@ This project is to show my javascripting skills. This will generate a new messag
 * Use Git version control
 * Use command line
 * Develop locally on your computer
+
+### Prerequisites
+* JavaScript
+* Git and GitHub
+* Command line

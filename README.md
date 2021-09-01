@@ -14,3 +14,6 @@ This project is to show my javascripting skills. This will generate a new messag
 * JavaScript
 * Git and GitHub
 * Command line
+
+#### About this app
+The message generator wasn't very specific so I used my role models to generate some qoutes of theirs randomly. I stored this in an object then call the object that doesnt require any type of input. 
